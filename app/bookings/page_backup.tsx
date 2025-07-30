@@ -1,0 +1,1 @@
+// Backup of bookings page before truncation
